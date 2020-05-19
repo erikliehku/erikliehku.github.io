@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Lie Jen Houng, Erik"
+title                    : "Lie Jen Houng"
 title_separator          : "-"
 name                     : &name "Erik"
 description              : &description "HKU Msc(CS) Student"
@@ -80,9 +80,9 @@ analytics:
 
 # Site Author
 author:
-  name             : "Lie Jen Houng, Erik"
+  name             : "Erik Lie"
   avatar           : "profile.png"
-  bio              : "HKU Msc(CS) Student | Actuary | Crypto Enthusiastic | Research @ Crypto.com"
+  bio              : "HKU Msc(CS) Student | Actuary | Research @ Crypto.com"
   location         : "Hong Kong"
   employer         : "Crypto.com"
   pubmed           : 
@@ -96,7 +96,7 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "academicpages"
+  github           : "erikliehku"
   google_plus      :
   keybase          :
   instagram        :
