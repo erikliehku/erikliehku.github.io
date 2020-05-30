@@ -1,15 +1,15 @@
 ---
-title: "Paper Title Number 2"
+title: "A Time-Dependent Interactive Visualization on IFRS 4 Phase II General Approach"
 collection: publications
 permalink: /publication/2016-data-visualization-essays
-excerpt: 'This paper is about the number 2. The number 3 is left for future work.'
-date: 2010-10-01
-venue: 'Journal 1'
+excerpt: 'An interactive visualization for the new insurance accounting standard, IFRS 4 Phase II (now IFRS 17).'
+date: 2016
+venue: 'Society of Actuaries'
 paperurl: 'http://erikliehku.github.io/files/2016-data-visualization-essays.pdf'
-citation: 'Your Name, You. (2010). &quot;Paper Title Number 2.&quot; <i>Journal 1</i>. 1(2).'
+citation: 'Jen Houng, Lie. (2016). &quot;A Time-Dependent Interactive Visualization on IFRS 4 Phase II General Approach.&quot; <i>Society of Actuaries</i>. 1(1).'
 ---
-This paper is about the number 2. The number 3 is left for future work.
+An interactive visualization for the new insurance accounting standard, IFRS 4 Phase II (now IFRS 17).
 
-[Download paper here](http://academicpages.github.io/files/2016-data-visualization-essays.pdf)
+[Download paper here](http://erikliehku.github.io/files/2016-data-visualization-essays.pdf)
 
-Recommended citation: Your Name, You. (2010). "Paper Title Number 2." <i>Journal 1</i>. 1(2).
+Recommended citation: Jen Houng, Lie. (2016). "A Time-Dependent Interactive Visualization on IFRS 4 Phase II General Approach." <i>Society of Actuaries</i>. 1(1).
