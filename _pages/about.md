@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-Hello, this is Lie Jen Houng (中文: 李仁鴻). You may also call me Erik.
+Hello, this is Lie Jen Houng (李仁鴻). You may also call me Erik.
 I am born in Hong Kong and have been studying and working here since then for 30 years.
 
 I studied in the Chinese University of Hong Kong from 2009-2013 on Actuarial Science.
