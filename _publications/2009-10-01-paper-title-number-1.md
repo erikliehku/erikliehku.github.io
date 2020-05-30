@@ -1,15 +1,15 @@
 ---
-title: "A Time-Dependent Interactive Visualization on IFRS 4 Phase II General Approach"
+title: "Paper Title Number 2"
 collection: publications
 permalink: /publication/2016-data-visualization-essays
-excerpt: 'IFRS 4 Phase II (now called IFRS 17) is a new accounting standard which introduces a lot of implicit logical relationships between the assumptions and financial results. This article aims at introducing an interactive visualization to answer some "what-if" scenarios to help understanding the new accounting standard.'
-date: 2016
-venue: 'Data Visualization - 2016 Call for Essays'
+excerpt: 'This paper is about the number 2. The number 3 is left for future work.'
+date: 2010-10-01
+venue: 'Journal 1'
 paperurl: 'http://erikliehku.github.io/files/2016-data-visualization-essays.pdf'
-citation: 'Jen Houng, Lie. (2016). &quot;A Time-Dependent Interactive Visualization on IFRS 4 Phase II General Approach.&quot; <i>Society of Actuaries</i>. 1(1).'
+citation: 'Your Name, You. (2010). &quot;Paper Title Number 2.&quot; <i>Journal 1</i>. 1(2).'
 ---
-IFRS 4 Phase II (now called IFRS 17) is a new accounting standard which introduces a lot of implicit logical relationships between the assumptions and financial results. This article aims at introducing an interactive visualization to answer some "what-if" scenarios to help understanding the new accounting standard.\
+This paper is about the number 2. The number 3 is left for future work.
 
-[Download paper here](http://erikliehku.github.io/files/2016-data-visualization-essays.pdf)
+[Download paper here](http://academicpages.github.io/files/2016-data-visualization-essays.pdf)
 
-Recommended citation: Jen Houng, Lie. (2016). "A Time-Dependent Interactive Visualization on IFRS 4 Phase II General Approach." <i>Society of Actuaries</i>. 1(1).
+Recommended citation: Your Name, You. (2010). "Paper Title Number 2." <i>Journal 1</i>. 1(2).
