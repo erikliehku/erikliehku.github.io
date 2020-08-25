@@ -14,6 +14,10 @@ Education
 * B.B.A. in Insurance, Actuarial and Financial Analysis, The Chinese University of Hong Kong, 2009-2013
 * M.Sc. in Computer Science, The University of Hong Kong, 2018-2021
 
+Dissertation
+======
+* Decentral Bank - An Autonomous Financial Protocol (Work in Progress)
+
 Professional Qualification
 ======
 * Fellow of Society of Actuaries (FSA), 2016-Now
