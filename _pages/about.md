@@ -9,7 +9,7 @@ redirect_from:
 ---
 
 Hello, this is Lie Jen Houng. You may also call me Erik.
-I am born in Hong Kong and have been studying and working here since then for 30 years.
+I am born in Hong Kong and have been studying and working here since then for 31 years.
 
 I obtained my undergraduated degree in 2013 from The Chinese University of Hong Kong, major in Actuarial Science.
 After graduation, I worked in AXA and Deloitte as Actuarial Analyst and Consultant, and got my actuarial fellowship in 2016 from the Society of Actuaries (FSA).
